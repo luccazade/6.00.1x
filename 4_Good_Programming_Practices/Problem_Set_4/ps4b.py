@@ -100,7 +100,7 @@ def compPlayHand(hand, wordList, n):
 # Problem #6: Playing a game
 #
 #
-def playGame(wordList):
+def playGame(wordList, hand = None):
     """
     Allow the user to play an arbitrary number of hands.
 
